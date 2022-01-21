@@ -7,7 +7,7 @@
                 src="https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white" /></a>
     </p>
     <p>
-        Hi guys 👋 <br /><br />
+        <h3> Hi guys 👋 </h3> 
         I'm a tech enthusiast⚡️ that never had the opportunity to learn programming until recently. <br />
         I was always interested in making things and solving problems and difficulties but didn't know-how in the real world. <br />
         It's been an incredible journey of self-discovery and it's only just begun.<br />
