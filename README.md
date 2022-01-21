@@ -35,16 +35,23 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=haewonchung&custom_title=Claire's+Github+Stats&line_height=27&count_private=true&theme=prussian&show_icons=false" alt="Claire's GitHub Stats" />
 </a>
 
+<details> 
+  <summary>📊 3D Profile Stats</summary>
+  <br/>
     
 ![](./profile-3d-contrib/profile-south-season-animate.svg)
     
+  <br/>
+</details>
+    
+
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=haewonchung&theme=prussian&date_format=M%20j%5B%2C%20Y%5D&background=FFFFFF&sideNums=659BB6&currStreakNum=659BB6&sideLabels=659BB6&currStreakLabel=4E778C)](https://git.io/streak-stats)     -->
 </div>
 <br />
  
 <div align=center>
     
-  ## 👩‍💻 Platforms & Languages
+  ## 🛠 Platforms & Languages ✍🏻
 <p>
   <br>
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
