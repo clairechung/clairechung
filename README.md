@@ -8,27 +8,18 @@
     </p>
     <p>
         Hi guys 👋 <br /><br />
-        I'm a tech enthusiast that never had the opportunity to learn programming until recently. <br />
+        I'm a tech enthusiast⚡️ that never had the opportunity to learn programming until recently. <br />
         I was always interested in making things and solving problems and difficulties but didn't know-how in the real world. <br />
         It's been an incredible journey of self-discovery and it's only just begun.<br />
+        👀 Currently learning Python and Backend development
     </p>
+     🌱 I’m interested in 
+       ✍🏻 Design
+       📖 Reading
+       🧘🏼‍♀️ Meditation
 </div>
-
-<!---
-- 👋 **Hi, I’m Claire** (@haewonchung)
-- 👀 I’m interested in 
-  - ✍🏻 Design
-  - 📖 Reading
-  - 🧘🏼‍♀️ Meditation
-- 🌱 I’m currently learning *Python* and *Backend development*
-- 🏃‍♀️ Follow me on [hashnode](https://hashnode.com/@clairechung)
-
-
-haewonchung/haewonchung is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
---->
+<br />
+ 
 <div align=center>
 <div>
     
@@ -36,7 +27,7 @@ You can click the Preview link to take a look at your changes.
  -->
 </div>
 
-## GitHub Stats
+## ✨  GitHub Stats
     
 <a href="https://github.com/haewonchung/haewonchung">  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haewonchung&hide=java&theme=prussian&langs_count=3" />
 </a>
@@ -46,11 +37,14 @@ You can click the Preview link to take a look at your changes.
 
     
 ![](./profile-3d-contrib/profile-south-season-animate.svg)
-
     
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=haewonchung&theme=prussian&date_format=M%20j%5B%2C%20Y%5D&background=FFFFFF&sideNums=659BB6&currStreakNum=659BB6&sideLabels=659BB6&currStreakLabel=4E778C)](https://git.io/streak-stats)     -->
+</div>
+<br />
+ 
+<div align=center>
     
-  ## Platforms & Languages
+  ## 👩‍💻 Platforms & Languages
 <p>
   <br>
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
@@ -69,7 +63,7 @@ You can click the Preview link to take a look at your changes.
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </p>
-</div>
+
 </div>
 
 
