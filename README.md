@@ -28,12 +28,15 @@
 </div>
 
 ## ✨  GitHub Stats
-    
+<details> 
+  <summary>👩‍💻 Claire's Profile Stats </summary>    
 <a href="https://github.com/haewonchung/haewonchung">  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haewonchung&hide=java&theme=prussian&langs_count=3" />
 </a>
 <a href="https://github.com/haewonchung/haewonchung">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=haewonchung&custom_title=Claire's+Github+Stats&line_height=27&count_private=true&theme=prussian&show_icons=false" alt="Claire's GitHub Stats" />
 </a>
+
+</details>
 
 <details> 
   <summary>📊 3D Profile Stats</summary>
