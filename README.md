@@ -25,6 +25,7 @@
 
 ## ✨  GitHub Stats
 <details> 
+    <br />
   <summary>👩‍💻 Claire's Profile Stats </summary>    
 <a href="https://github.com/haewonchung/haewonchung">  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haewonchung&hide=java&theme=buefy&langs_count=3" />
 </a>
@@ -39,7 +40,7 @@
     
 ![](./profile-3d-contrib/profile-south-season-animate.svg)
   
-  <br/>
+  <br />
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=haewonchung&theme=prussian&date_format=M%20j%5B%2C%20Y%5D&background=FFFFFF&sideNums=659BB6&currStreakNum=659BB6&sideLabels=659BB6&currStreakLabel=4E778C)](https://git.io/streak-stats)    
     
