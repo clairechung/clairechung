@@ -45,7 +45,10 @@ You can click the Preview link to take a look at your changes.
 </a>
 
     
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=haewonchung&theme=prussian&date_format=M%20j%5B%2C%20Y%5D&background=FFFFFF&sideNums=659BB6&currStreakNum=659BB6&sideLabels=659BB6&currStreakLabel=4E778C)](https://git.io/streak-stats)    
+![](./profile-3d-contrib/profile-season-animate.svg)
+
+    
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=haewonchung&theme=prussian&date_format=M%20j%5B%2C%20Y%5D&background=FFFFFF&sideNums=659BB6&currStreakNum=659BB6&sideLabels=659BB6&currStreakLabel=4E778C)](https://git.io/streak-stats)     -->
     
   ## Platforms & Languages
 <p>
