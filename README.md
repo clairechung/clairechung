@@ -1,4 +1,4 @@
-<a href="https://hashnode.com/@clairechung" target="_blank">![Cover Image 3](https://user-images.githubusercontent.com/35644336/150503025-e65e1549-c5e5-4a5f-91e3-92203648e219.png)
+<!-- <a href="https://hashnode.com/@clairechung" target="_blank">![Cover Image 3](https://user-images.githubusercontent.com/35644336/150503025-e65e1549-c5e5-4a5f-91e3-92203648e219.png) -->
 </a>
 
 <div align=center>
