@@ -67,13 +67,7 @@
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </p>
-    <p>
-        <a href="https://hashnode.com/@clairechung" target="_blank"><img src="https://img.shields.io/badge/blog-blueviolet?&style=flat-square&logo=blogger&logoColor=white"/></a>
-        <a href="mailto:haewonchung77@gmail.com" target="_blank"><img
-                src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" /></a>
-        <a href="https://www.linkedin.com/in/its-claire/" target="_blank"><img
-                src="https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white" /></a>
-    </p>
+
 </div>
 
 
