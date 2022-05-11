@@ -7,7 +7,8 @@
         I'm a tech enthusiast⚡️ that never had the opportunity to learn programming until recently. <br />
         I was always interested in making things and solving problems and difficulties but didn't know-how in the real world. <br />
         It's been an incredible journey of self-discovery and it's only just begun.<br />
-        👀 Currently learning Python and Backend development
+        👀 Currently learning Typescript, GraphQL, Kubernetes.
+    
     </p>
      🌱 I’m interested in 
        ✍🏻 Design
