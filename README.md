@@ -13,7 +13,7 @@
      🌱 I’m interested in 
       - 📖 Reading
        Favorite: Tools of Titans, Atomic Habits, The Social Animal
-       Currently: Unscripted, Factfulness
+       Currently reading Unscripted and Factfulness
       - 🧘🏼‍♀️ Meditation
 </div>
 <br />
