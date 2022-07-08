@@ -11,10 +11,10 @@
     </p>
     
      🌱 I’m interested in 
-      - 📖 Reading
+     📖 Reading
        Favorite: Tools of Titans, Atomic Habits, The Social Animal
        Currently reading Unscripted and Factfulness
-      - 🧘🏼‍♀️ Meditation
+     🧘🏼‍♀️ Meditation
 </div>
 <br />
  
