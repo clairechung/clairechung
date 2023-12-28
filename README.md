@@ -12,9 +12,8 @@ Hey there! I'm Claire, a passionate software engineer dedicated to crafting inno
 - 🚀 Proficiency in Python, TypeScript, C#, and a myriad of tech stacks.<br>
 - 🤝 A collaborative mindset and an enthusiastic team player.
 
-Note that many of my projects are currently private, but I'm always open to collaborations or just a friendly chat. Let's connect and chat about coding, tech, or anything under the sun! 🌟
 
-### Skills
+### My Skills
 *Proficient*
 
 [![My Skills](https://skillicons.dev/icons?i=py,ts,js,react,git,github,flask,django,fastapi,docker,postgres,bash,vscode,visualstudio,figma,jenkins,jest)](https://skillicons.dev)
@@ -22,3 +21,6 @@ Note that many of my projects are currently private, but I'm always open to coll
 *Familiar*
 
 [![My Skills](https://skillicons.dev/icons?i=java,cs,go,aws,vim,linux,dotnet,express,nodejs,tensorflow,unity,postman)](https://skillicons.dev)
+
+
+Note that many of my projects are currently private, but I'm always open to collaborations or just a friendly chat. Let's connect and chat about coding, tech, or anything under the sun! 🌟
