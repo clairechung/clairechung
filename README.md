@@ -32,7 +32,7 @@ My journey in the tech world is a blend of creativity, problem-solving, and a re
   
 *Proficient*
 
-[![My Skills](https://skillicons.dev/icons?i=py,ts,js,react,git,github,flask,django,docker,postgres,bash,vscode,visualstudio,figma,jenkins)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,ts,js,flask,react,django,docker,postgres,git,github,bash,vscode,visualstudio,figma,jenkins)](https://skillicons.dev)
 
 *Familiar*
 
