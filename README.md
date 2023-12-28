@@ -4,7 +4,7 @@
   
 ### About Me
 
-Hey there! I'm a passionate software engineer dedicated to crafting innovative solutions and creating robust applications. <br>
+Hi there! I'm a passionate software engineer in New York dedicated to crafting innovative solutions and creating robust applications. <br>
 My journey in the tech world is a blend of creativity, problem-solving, and a relentless pursuit of learning.
 
 ### What I Bring to the Table
@@ -37,8 +37,11 @@ My journey in the tech world is a blend of creativity, problem-solving, and a re
 
 [![My Skills](https://skillicons.dev/icons?i=java,cs,go,aws,vim,linux,dotnet,fastapi,express,nodejs,tensorflow,unity,postman,jest)](https://skillicons.dev)
 
+<br>
+I'm always open to collaborations or just a friendly chat! <br>
+Let's connect and chat about coding, tech, or anything under the sun! 🌟
 </div>
 
 
 
-I'm always open to collaborations or just a friendly chat. Let's connect and chat about coding, tech, or anything under the sun! 🌟
+
