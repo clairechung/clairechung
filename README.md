@@ -4,7 +4,7 @@
   
 ### About Me
 
-Hi there! I'm a passionate software engineer in New York <br> 
+Hi there! I'm a passionate software engineer in New York, <br> 
 dedicated to crafting innovative solutions and creating robust applications. <br>
 My journey in the tech world is a blend of creativity, problem-solving, and a relentless pursuit of learning.
 
