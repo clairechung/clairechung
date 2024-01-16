@@ -36,7 +36,7 @@ My journey in the tech world is a blend of creativity, problem-solving, and a re
 
 *Familiar*
 
-[![My Skills](https://skillicons.dev/icons?i=java,cs,go,aws,vim,linux,dotnet,fastapi,express,nodejs,tensorflow,unity,postman,jest)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,cs,go,aws,vim,linux,dotnet,fastapi,nextjs,express,nodejs,tensorflow,unity,postman,jest)](https://skillicons.dev)
 
 <br>
 I'm always open to collaborations or just a friendly chat! <br>
