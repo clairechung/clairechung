@@ -6,17 +6,17 @@
 
 Hi there! I'm a passionate software engineer in New York, <br> 
 dedicated to crafting innovative solutions and creating robust applications. <br>
-My journey in the tech world is a blend of creativity, problem-solving, and a relentless pursuit of learning.
+My tech journey mixes creativity, problem-solving, and a passion for continuous learning.
 
 ### What I Bring to the Table
 ✨ A passion for problem-solving and building intuitive solutions.<br>
-✨ Proficiency in Python, TypeScript, C#, and a myriad of tech stacks.<br>
+✨ Expertise in Python, TypeScript and various modern technology stacks.<br>
 ✨ A collaborative mindset and an enthusiastic team player.
 
 ### Projects Highlights
-👩‍💻 *coming soon* 
+🚀 *coming soon* 
 <br>
-<sub align="center">Note that many of my projects are currently private.</sub>
+<sub align="center">Note that many of my projects are currently private</sub>
 
 
 </div>
@@ -30,13 +30,21 @@ My journey in the tech world is a blend of creativity, problem-solving, and a re
 
 <div align="center">
   
-*Proficient*
+**Proficient Technologies**
 
-[![My Skills](https://skillicons.dev/icons?i=py,ts,js,flask,react,django,docker,postgres,git,github,bash,vscode,visualstudio,figma,jenkins)](https://skillicons.dev)
 
-*Familiar*
+[![My Skills](https://skillicons.dev/icons?i=ts,js,py,cs,dotnet,flask,react,django,nodejs,postgres,git,docker,vitest,jest,jenkins)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=java,cs,go,aws,vim,linux,dotnet,fastapi,nextjs,express,nodejs,tensorflow,unity,postman,jest)](https://skillicons.dev)
+
+**Familiar Technologies**
+
+[![My Skills](https://skillicons.dev/icons?i=java,go,aws,tailwind,linux,bash,nextjs,express,tensorflow,unity,prisma)](https://skillicons.dev)
+
+**IDEs and Tools**
+
+[![My Skills](https://skillicons.dev/icons?i=webstorm,github,vscode,visualstudio,vim,figma,atom,eclipse)](https://skillicons.dev)
+
+
 
 <br>
 I'm always open to collaborations or just a friendly chat! <br>
