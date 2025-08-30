@@ -2,7 +2,8 @@
 
 <div align="center">
 
-Full-stack developer passionate about building scalable applications and solving complex problems. I enjoy working with modern technologies and contributing to meaningful projects that make a difference.
+Full-stack developer passionate about building scalable applications and solving complex problems.\
+I enjoy working with modern technologies and contributing to meaningful projects that make a difference.
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Code+Quality+Advocate;UX-Minded+Engineer;Team+Player;Problem+Solver;Always+Learning+New+Things)
 
