@@ -101,11 +101,9 @@ Community tool for comprehensive video performance analysis
 
 </div>
 
----
-
 <div align="center">
   
-**Thanks for visiting! Let's build something amazing together** ✨
+_Thanks for visiting! Let's build something amazing together ✨_
 
 </div>
 
