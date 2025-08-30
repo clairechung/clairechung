@@ -39,7 +39,7 @@ const claire = {
 
 <div align="center">
 
-|    🚀 **Focus Area**     |      👩‍💻 **Learning**      |    ✨ **Status**     |
+|     **Focus Area**       |       **Learning**        |       **Status**     |
 | :----------------------: | :-----------------------: | :------------------: |
 |  Scalable Applications   |       System Design       |    Debug mode: ON    |
 | Performance Optimization |     AI/ML integration     |  Fueled by caffeine  |
@@ -66,11 +66,11 @@ Community tool for comprehensive video performance analysis
 
 <div align="center">
 
-**🎨 Design Philosophy:** _Clean code is not written by following a set of rules.<br> Clean code is written by someone who cares._
+**Design Philosophy:** _Clean code is not written by following a set of rules.<br> Clean code is written by someone who cares._
 
-**🌱 Growth Mindset:** Every bug is a learning opportunity
+**Growth Mindset:** Every bug is a learning opportunity
 
-**🚀 Innovation Drive:** Building solutions that users actually love
+**Innovation Drive:** Building solutions that users actually love
 
 </div>
 
