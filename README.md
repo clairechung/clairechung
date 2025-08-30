@@ -60,7 +60,7 @@ Advanced ML system achieving 95.5% F1 score with sub-300ms response times
 **📊 YouTube Assistant** - Creator Analytics Tool  
 Community tool for comprehensive video performance analysis  
 `Google Apps Script` `YouTube Data API` `Google Sheets`  
-[Demo](link) • [Code](https://github.com/clairechung/YoutubeAssistant)
+[Demo](https://github.com/clairechung/YoutubeAssistant?tab=readme-ov-file#what-you-get) • [Code](https://github.com/clairechung/YoutubeAssistant)
 
 </div>
 
