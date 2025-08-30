@@ -11,7 +11,7 @@ I enjoy working with modern technologies and contributing to meaningful projects
 const claire = {
   location: "New York, NY",
   currentlyLearning: "System Design",
-  funFact: "I sometimes debug with console.log 🐛"
+  funFact: "I sometimes debug with console.log 🐛",
 };
 ```
 
@@ -39,11 +39,11 @@ const claire = {
 
 <div align="center">
 
-| 🚀 **Focus Area** | 👩‍💻 **Learning** | ✨ **Status** |
-|:---:|:---:|:---:|
-| Scalable Applications | System Design | Debug mode: ON |
-| Performance Optimization | AI/ML integration | Fueled by caffeine |
-| Knowledge sharing | Open Source Contributions | Ready to collaborate |
+|    🚀 **Focus Area**     |      👩‍💻 **Learning**      |    ✨ **Status**     |
+| :----------------------: | :-----------------------: | :------------------: |
+|  Scalable Applications   |       System Design       |    Debug mode: ON    |
+| Performance Optimization |     AI/ML integration     |  Fueled by caffeine  |
+|    Knowledge sharing     | Open Source Contributions | Ready to collaborate |
 
 </div>
 
@@ -55,7 +55,7 @@ const claire = {
 **🔍 SENTINEL** - PII Detection Platform  
 Advanced ML system achieving 95.5% F1 score with sub-300ms response times  
 `DistilBERT` `FastAPI` `React/TypeScript` `TrOCR` `YOLO11`  
-[Demo](link) • [Code](link)
+Demo • Code
 
 **📊 YouTube Assistant** - Creator Analytics Tool  
 Community tool for comprehensive video performance analysis  
@@ -66,12 +66,11 @@ Community tool for comprehensive video performance analysis
 
 <div align="center">
 
-**🎨 Design Philosophy:** *Clean code is not written by following a set of rules.<br> Clean code is written by someone who cares.*
+**🎨 Design Philosophy:** _Clean code is not written by following a set of rules.<br> Clean code is written by someone who cares._
 
 **🌱 Growth Mindset:** Every bug is a learning opportunity
 
 **🚀 Innovation Drive:** Building solutions that users actually love
-
 
 </div>
 
@@ -85,7 +84,10 @@ Community tool for comprehensive video performance analysis
 
 </div>
 
-<h3 align="center"> 😄 Random Programming Joke </h3>
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/clairechung?pet-id=1" width="1000" height="200"/>
+</a>
+</div>
 
 <div align="center">
 
@@ -93,25 +95,16 @@ Community tool for comprehensive video performance analysis
 
 </div>
 
-<h2 align="center"> 📫 Let's Connect </h2>
+<div align="center">
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/its-claire)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cc0616@proton.me)
+---
 
-</div>
-
-<div align="center">
-  
 _Thanks for visiting! Let's build something amazing together ✨_
 
+<a href="mailto:cc0616@proton.me">
+  <img src="https://img.shields.io/badge/✉️-email.me-36BCF7?style=flat-square&logoColor=white" alt="Email Me"/>
+</a>
+
 </div>
-
-
-
-
-
-
-
-
